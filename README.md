@@ -1,13 +1,10 @@
-# Proyecto de Análisis de Viandas 🍱
+# Proyecto de Análisis de Viandas 🥗📊
 
-Este proyecto fue realizado como parte de la primera entrega del curso de Visualizaciones en Python (Coderhouse).
+Este proyecto corresponde a la primera entrega del curso de Visualizaciones en Python (Coderhouse).  
+El análisis incluye:
 
-Se creó un dataset simulado con 1000 registros de ventas de una mini empresa de viandas. El análisis incluye:
-- Visualizaciones por tipo de plato, categoría, cliente, y método de pago
-- Análisis de valores perdidos
-- Diagnóstico de comportamiento comercial
-
-## Archivos incluidos
-- `ProyectoDS_Kesta_Joseph.ipynb`: notebook con todo el análisis y gráficos
-- `viandas_dataset.csv`: base de datos utilizada para el proyecto
- 
+- Generación de una base de datos simulada con 1000 ventas de viandas
+- Clasificación de platos por categorías (saludables, vegetarianas, etc.)
+- Segmentación por formas de pago, tipo de cliente y sucursal
+- Identificación de valores perdidos
+- Visualización de tendencias con gráficos y análisis exploratorio
